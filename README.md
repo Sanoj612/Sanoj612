@@ -5,10 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=sanoj612&label=Profile%20views&color=0e75b6&style=flat" alt="sanoj612" /> 
-</p>
-
 - 🔭 I’m currently working on **FutureEdge Web Application**
 - 🌱 I’m currently learning **php & Laravel**
 - 💬 Ask me about **react**
